@@ -30,5 +30,23 @@ const data = {
       prereqs: [159],
       credits: 3,
     },
+    {
+      prefix: "CS",
+      number: 261,
+      title: "Computer Systems I",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257222",
+      desc: "Introduction to the operation of modern interrupt-driven computer systems. Explores the representation of software and information in binary memory, the primary components of a CPU, multithreaded programming and basic interactions with an Operating System.",
+      prereqs: [159],
+      credits: 3,
+    },
+    {
+      prefix: "CS",
+      number: 240,
+      title: "Algorithms and Data Structures",
+      url: "https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=257221",
+      desc: "Students learn how to implement stacks, queues, lists, sets and maps using arrays, linked lists, binary trees, heaps, binary search trees, balanced trees and hashing. Students study graph representations and algorithms. Students analyze recursive and non-recursive algorithms, illustrated by various searching and sorting algorithms.",
+      prereqs: [159],
+      credits: 3,
+    },
   ],
 };
